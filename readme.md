@@ -2,14 +2,14 @@
 
 ## About Me
 
-1337 School student (42 Network) graduating soon, with a focus on full-stack web development and problem-solving.
+1337 School student (42 Network) graduating soon, with a focus on Backend development and problem-solving.
 
 ## Technical Skills
 
-**Languages:** JavaScript/TypeScript, C/C++
+**Languages:** TypeScript, Java, C, C++
 
 **Frontend:** React, Next.js
 
 **Backend:** Node.js, Express.js, PostgreSQL
 
-**Tools & Technologies:** Docker, Better-Auth
+**Tools & Technologies:** Docker, Docker Compose, TanStack Query
