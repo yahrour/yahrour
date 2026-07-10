@@ -10,6 +10,6 @@
 
 **Frontend:** React, Next.js
 
-**Backend:** Node.js, Express.js, PostgreSQL
+**Backend:** Node.js, Express.js, NestJs, PostgreSQL
 
 **Tools & Technologies:** Docker, Docker Compose, TanStack Query
