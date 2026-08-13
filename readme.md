@@ -16,4 +16,4 @@
 
 ## Open Source Contributions
 
-- Fixed a forgot-password bug in [platform](https://github.com/nizzyabi/platform) (100+ ⭐) — patched an edge case where OAuth users hit a broken reset flow. [PR #31](https://github.com/nizzyabi/platform/pull/31)
+- Fixed a forgot-password bug in [platform](https://github.com/nizzyabi/platform) (100+ ⭐) patched an edge case where OAuth users hit a broken reset flow. [PR #31](https://github.com/nizzyabi/platform/pull/31)
