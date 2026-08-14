@@ -57,4 +57,4 @@ Looking for a team where I can work on real software, learn from people further 
 
 ## Find me here
 
-[Portfolio](https://yahrour.github.io/) · [Email](youssefahrour.contact@gmail.com)
+[Portfolio](https://yahrour.github.io/) · [Email](mailto:youssefahrour.contact@gmail.com)
