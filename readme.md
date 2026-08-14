@@ -1,6 +1,6 @@
 # Youssef Ahrour
 
-Software Engineering Student at 1337 (42 network) — into backend, APIs, PostgreSQL, auth, and system design. Looking for a software engineering internship or new-grad role.
+Software Engineering Student at 1337 (42 network). into backend, APIs, PostgreSQL, auth, and system design. Looking for a software engineering internship or new-grad role.
 
 ## Skills & Tools
 
@@ -20,11 +20,9 @@ Software Engineering Student at 1337 (42 network) — into backend, APIs, Postgr
 
 **[Digital Closet](https://github.com/yahrour/digital-closet)** A digital wardrobe manager that helps you organize your clothes, track items, and create outfits from your closet with ease.
 
-*(see pinned repos below for more)*
-
 ## Open Source
 
-Fixed an OAuth bug in a 100+ star project — OAuth users were landing in the wrong password-reset flow. Traced and patched the split without breaking existing flows.
+Fixed an OAuth bug in a 100+ star project. OAuth users were landing in the wrong password-reset flow. Traced and patched the split without breaking existing flows.
 [View the PR](https://github.com/nizzyabi/platform/pull/31)
 
 ## Find me here
