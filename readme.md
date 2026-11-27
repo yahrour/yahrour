@@ -30,6 +30,8 @@ I care about the parts that are easy to get wrong: concurrency, correctness, and
 
 **[Digital Closet](https://github.com/yahrour/digital-closet)** — a digital wardrobe manager for organizing items and building outfits, with image storage and user-scoped data.
 
+**[Tag-Based Email Manager](https://github.com/yahrour/tag-based-email-manager)** — a full-stack email tool with tag-based organization and search.
+
 More on my [portfolio](https://yahrour.github.io/projects).
 
 ---
@@ -47,6 +49,14 @@ More on my [portfolio](https://yahrour.github.io/projects).
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahrour&show_icons=true&hide_border=true&count_private=true" alt="Youssef's GitHub stats" height="165" />
+  <a href="https://gitshine.com/stats/yahrour">
+    <img src="https://gitshine.com/card/yahrour" alt="Youssef's GitHub stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.githubstats.tech">
+    <img src="https://www.githubstats.tech/api/card?username=yahrour&theme=catppuccin-mocha&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=0&show_contributed=0&show_year=1&show_top_repo=0&show_profile=0&show_top_percent=0&contrib_stars=1" alt="Youssef's GitHub stats" height="165" />
+  </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahrour&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="165" />
 </p>
