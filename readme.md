@@ -6,6 +6,12 @@ I care about the parts that are easy to get wrong: concurrency, correctness, and
 
 ---
 
+## Currently building
+
+A **PostgreSQL backup and restore service** that makes restores safe, which is where most backup setups fall over: each backup is test-restored before it's kept, and the restore only swaps a database into place once its replacement has restored successfully, so a failure never touches live data. Optional age encryption and AWS S3 replication, proven by an end-to-end test suite in CI.
+
+---
+
 ## Skills & Tools
 
 **Languages:** TypeScript · Go · SQL · C/C++ · Bash
@@ -55,8 +61,7 @@ More on my [portfolio](https://yahrour.github.io/projects).
 </p>
 
 <p align="center">
-  <a href="https://www.githubstats.tech">
-    <img src="https://www.githubstats.tech/api/card?username=yahrour&theme=catppuccin-mocha&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=0&show_contributed=0&show_year=1&show_top_repo=0&show_profile=0&show_top_percent=0&contrib_stars=1" alt="Youssef's GitHub stats" height="165" />
+  <a href="https://github-stats-extended.vercel.app/api?username=yahrour&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github">
+    <img src="https://github-stats-extended.vercel.app/api?username=yahrour&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github" alt="Youssef's GitHub stats" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahrour&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="165" />
 </p>
